@@ -1,0 +1,7 @@
+Developed a Machine Learning model using K-Nearest Neighbors (KNN) to predict Water Scarcity Level (Low, Moderate, High).
+Used a real-world global water consumption dataset (2000–2025) containing environmental and usage-related features.
+Implemented automatic water stress classification rules based on Groundwater Depletion Rate and Rainfall Impact when the target column is missing.
+Applied data preprocessing techniques such as handling missing values and Label Encoding for accurate model training.
+Built a Flask-based web application integrating the trained ML model with a user-friendly interface.
+Added user authentication system including login, registration, session handling, and logout functionality.
+Created an interactive prediction page where users input water-related parameters and receive instant scarcity level results.
